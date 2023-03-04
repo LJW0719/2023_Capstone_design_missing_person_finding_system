@@ -14,11 +14,13 @@ From now on, I will explain the code that transmits the data of the notepad in r
 + The client receives messages and checks in their memopad.
 
 ### (1) memo_server
- +
++ First, enter the cmd and input 'ipconfig' command to check your own IP address. (Based on Window)
++ 
 
 ### (2) memo_client
 
 
-## Helpful Links
 
+
+## Helpful Links
 * https://seopseop911.tistory.com/26
