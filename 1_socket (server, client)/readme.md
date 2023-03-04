@@ -8,7 +8,13 @@
 
 ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlRcp2%2FbtrrEUFw62k%2F5TBTR9g3jnvOWB3gDL0d31%2Fimg.jpg)
 
-+ 
++ The waiting side is called the server, and the server opens the port and waits for the client to connect.
+
++ The connecting side is called the Client, and networks are linked by connecting to the IP and Port of the server.
+
++ Communication between the server and the client is exchanged in the form of Send and Receive.
+
++ After communication is over, it disconnects with close().
 
 ### (1) Server
 
