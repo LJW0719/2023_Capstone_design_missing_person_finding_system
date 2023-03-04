@@ -31,6 +31,11 @@ From now on, I will explain the code that transmits the data of the notepad in r
 + Attach a Raspberry Pi(Client) to the drone to test if it can communicate with a PC(Server) on the ground.
 + ![server_send](https://user-images.githubusercontent.com/117963984/222891202-5f278d58-973b-4c19-b979-fa11c63cc06d.jpg)
 Figure01 - Server sends messages to the client(drone) periodically.
+The memopad contents:
+start : drone take off
+3740 5m : 37m 40s (did not refer hour, just minutes and seconds.) and altitude 5 meters.
+and so on..
+3840 lannding : 38m 40s drone has landed.
 
 + ![client_receive](https://user-images.githubusercontent.com/117963984/222891174-5b4c068d-2adf-416b-bd44-2ee7c34a55f7.jpg)
 Figure02 - Client(drone) receives messages to the server and it was recorded.
