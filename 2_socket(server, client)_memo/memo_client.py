@@ -2,7 +2,7 @@ import socket
 
 
 # Input the server's address. You can use hostname or ip address.
-HOST = '127.0.0.1'  
+HOST = ''  
 # Port number assigned by the server.
 PORT = 9999       
 
