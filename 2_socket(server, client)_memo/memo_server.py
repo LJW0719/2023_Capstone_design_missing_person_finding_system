@@ -2,7 +2,7 @@ import socket
 
 
 # Input your server IP address 
-HOST = '127.0.0.1'
+HOST = ''
 
 # Port number to wait for client access.
 PORT = 9999        
