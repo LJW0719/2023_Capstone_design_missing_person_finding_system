@@ -15,9 +15,18 @@ From now on, I will explain the code that transmits the data of the notepad in r
 
 ### (1) memo_server
 + First, enter the cmd and input 'ipconfig' command to check your own IP address. (Based on Window)
-+ 
++ In line 42 in "memo_server.py", Interpretation of "while" statements.
++ Set a variable called copy before the while statement.
++ Notepad will open and read "hello.txt".
++ If it is assigned to a variable called s and it is the same as the previously set copy, it continues and the lower line is not executed.
++ If the value assigned to the variable s is not the same as the preset copy (if a new one is written in the notepad), the contents are printed, the copy input value of s is entered, and sent to the client.
++ The reason why s is put here is that when it is repeated again, it must be the same as the condition of the if to print and send only once.
 
 ### (2) memo_client
++
++
++
++
 
 
 
