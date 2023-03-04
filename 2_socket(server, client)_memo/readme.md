@@ -23,11 +23,9 @@ From now on, I will explain the code that transmits the data of the notepad in r
 + The reason why s is put here is that when it is repeated again, it must be the same as the condition of the if to print and send only once.
 
 ### (2) memo_client
-+
-+
-+
-+
-
++ First check the IP address of the server and enter it.
++ Execute "memo_client.py" in terminal. (Based on Linux)
++ Execute "while" loop as same as server.
 
 
 
