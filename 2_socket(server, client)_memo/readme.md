@@ -27,6 +27,13 @@ From now on, I will explain the code that transmits the data of the notepad in r
 + Execute "memo_client.py" in terminal. (Based on Linux)
 + Execute "while" loop as same as server.
 
+## 2. Results
++ Attach a Raspberry Pi(Client) to the drone to test if it can communicate with a PC(Server) on the ground.
++ ![server_send](https://user-images.githubusercontent.com/117963984/222891202-5f278d58-973b-4c19-b979-fa11c63cc06d.jpg)
+Figure01 - Server sends messages to the client(drone) periodically.
+
++ ![client_receive](https://user-images.githubusercontent.com/117963984/222891174-5b4c068d-2adf-416b-bd44-2ee7c34a55f7.jpg)
+Figure02 - Client(drone) receives messages to the server and it was recorded.
 
 
 ## Helpful Links
