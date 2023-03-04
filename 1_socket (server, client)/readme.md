@@ -4,6 +4,8 @@
 
 + IP addresses of both echo_server.py and echo_client.py are your own IP address in your laptop.
 
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlRcp2%2FbtrrEUFw62k%2F5TBTR9g3jnvOWB3gDL0d31%2Fimg.jpg)
+
 ### (1) Server
 
 + echo_server.py is used in your own laptop.
