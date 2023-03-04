@@ -8,15 +8,15 @@ From now on, I will explain the code that transmits the data of the notepad in r
 2. Write the contents in the notepad on the server (PC)
 3. Check the content in Notepad on the client (Raspberry Pi) (This content is the content written on the server is transmitted.)
 
-## 1. Socket (server, client)
+## 1. socket(server, client)_memo
 
 + The server sends messages to the client.
 + The client receives messages and checks in their memopad.
 
-### (1) Server
+### (1) memo_server
+ +
 
-
-### (2) Client
+### (2) memo_client
 
 
 ## Helpful Links
