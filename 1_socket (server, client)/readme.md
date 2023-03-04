@@ -18,3 +18,6 @@
 
 + Important method: connect, send, recv
 
+Reference:
+https://itholic.github.io/python-socket/
+https://wildeveloperetrain.tistory.com/122
