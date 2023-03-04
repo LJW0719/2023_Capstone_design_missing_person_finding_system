@@ -10,11 +10,13 @@ From now on, I will explain the code that transmits the data of the notepad in r
 
 ## 1. Socket (server, client)
 
-+ The server receives the message from the client and prints it.
++ The server sends messages to the client.
++ The client receives messages and checks in their memopad.
 
 ### (1) Server
 
-+ 
+
+### (2) Client
 
 
 ## Helpful Links
